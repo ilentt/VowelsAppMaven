@@ -39,11 +39,16 @@ public class VowelsPattern {
 
 		return false;
 	}
-	/*
-	 * Main function for stand alone running public static void main(String[]
-	 * args) { try { System.out.println(sameVowelPatternOfLongWord("TRABAIGRAN",
-	 * "JAMACICA")); } catch (InvalidInputException e) { // TODO Auto-generated
-	 * catch block e = new InvalidInputException("Input string are invalid");
-	 * e.printStackTrace(); } }
-	 */
+
+	// Main function for stand alone running
+
+	/*public static void main(String[] args) {
+		try {
+			System.out.println(sameVowelPatternOfLongWord("TRABAIGRAN", "JAMACICA"));
+		} catch (InvalidInputException e) { // TODO Auto-generated catch block
+			e = new InvalidInputException("Input string are invalid");
+			e.printStackTrace();
+		}
+	}*/
+
 }

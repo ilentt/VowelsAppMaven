@@ -64,7 +64,7 @@
   				<manifest>
   					<addClasspath>true</addClasspath>
   					<classpathPrefix>target/</classpathPrefix>
-  					<mainClass>vn.elca.training.VowelsApp</mainClass>
+  					<mainClass>vn.elca.training.Application</mainClass>
   				</manifest>
   			</archive>
   		</configuration>

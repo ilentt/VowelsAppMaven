@@ -1,5 +1,5 @@
-vn\elca\training\VowelsApp.class
+vn\elca\training\Application.class
 vn\elca\training\VowelsPattern.class
-vn\elca\training\VowelsApp$1.class
-vn\elca\training\VowelsApp$2.class
+vn\elca\training\Application$2.class
+vn\elca\training\Application$1.class
 vn\elca\training\InvalidInputException.class

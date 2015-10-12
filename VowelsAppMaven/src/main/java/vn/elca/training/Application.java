@@ -88,7 +88,7 @@ public class Application {
 		controlPanel.add(btnCheck);
 		mainFrame.setVisible(true);
 	}
-
+	// initialize GUI
 	private void prepareGUI() {
 		mainFrame = new Frame("[ILT] Check Vowel Pattern");
 		mainFrame.setSize(400, 250);
